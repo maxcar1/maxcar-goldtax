@@ -1,0 +1,16 @@
+D:\workspace\maxcar-goldtax\bin\Debug\maxcar-goldtax.exe.config
+D:\workspace\maxcar-goldtax\bin\Debug\maxcar-goldtax.exe
+D:\workspace\maxcar-goldtax\bin\Debug\maxcar-goldtax.pdb
+D:\workspace\maxcar-goldtax\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\maxcar-goldtax\bin\Debug\System.Net.Http.Formatting.dll
+D:\workspace\maxcar-goldtax\bin\Debug\System.Web.Http.dll
+D:\workspace\maxcar-goldtax\bin\Debug\System.Web.Http.SelfHost.dll
+D:\workspace\maxcar-goldtax\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\maxcar-goldtax\bin\Debug\System.Net.Http.Formatting.xml
+D:\workspace\maxcar-goldtax\bin\Debug\System.Web.Http.xml
+D:\workspace\maxcar-goldtax\bin\Debug\System.Web.Http.SelfHost.xml
+D:\workspace\maxcar-goldtax\obj\Debug\maxcar-goldtax.csproj.CoreCompileInputs.cache
+D:\workspace\maxcar-goldtax\obj\Debug\maxcar-goldtax.csproj.CopyComplete
+D:\workspace\maxcar-goldtax\obj\Debug\maxcar-goldtax.exe
+D:\workspace\maxcar-goldtax\obj\Debug\maxcar-goldtax.pdb
+D:\workspace\maxcar-goldtax\obj\Debug\maxcar-goldtax.csprojAssemblyReference.cache
